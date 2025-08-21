@@ -18,8 +18,8 @@ pip install -r requirements.txt
 cd Secupy
 ```
 
-## Run
-From this folder:
+## Then Run
+
 ```bash
 python -m secupy.cli
 ```
