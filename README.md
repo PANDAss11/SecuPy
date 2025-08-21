@@ -13,11 +13,15 @@ A professional, terminal-based **ethical security toolkit**. Everything is non-d
 ```bash
 pip install -r requirements.txt
 ```
+## Run
+```bash
+cd Secupy
+```
 
 ## Run
 From this folder:
 ```bash
-python -m secupy_pro.cli
+python -m secupy.cli
 ```
 
 **Note (Windows)**: For traceroute, the tool uses `tracert`. For ping, it uses the built-in `ping` command. Run Command Prompt or PowerShell.
