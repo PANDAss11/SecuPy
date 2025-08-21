@@ -1,4 +1,4 @@
-# SecuPy Pro
+# SecuPy 
 
 A professional, terminal-based **ethical security toolkit**. Everything is non-destructive and designed for learning and blue-team workflows.
 
