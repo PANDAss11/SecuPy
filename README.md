@@ -9,13 +9,14 @@ A professional, terminal-based **ethical security toolkit**. Everything is non-d
 - **Crypto/Files**: hash identify + file hashes, password strength check (simple rules)
 - **OSINT**: WHOIS (basic), DNS A/PTR, GeoIP (ip-api.com)
 
-## Install
-```bash
-pip install -r requirements.txt
-```
 ## Run
 ```bash
 cd Secupy
+```
+
+## Install
+```bash
+pip install -r requirements.txt
 ```
 
 ## Then Run
